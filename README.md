@@ -19,7 +19,4 @@
 ### 1. Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivm-singh&layout=compact&theme=radical&hide=c&hide_title=true)
 
-
-### 2. GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivm-singh&theme=radical)
- 
+ ![shivm-singh's Stats](https://github-readme-stats.vercel.app/api?username=shivm-singh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)

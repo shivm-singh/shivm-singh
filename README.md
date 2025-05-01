@@ -1,6 +1,6 @@
  # About Me:
 - 👋 Hi, I’m shivam singh
-- 🌐 I’m interested in Al , Ml , DSA and Web Designing
+- 🌐 I’m interested in Al , ML , DSA and Web Designing
 - 📖 I’m currently learning Web Desiging and DSA
 - 💡 Fun fact: Code to uncode life
 
